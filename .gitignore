@@ -1,0 +1,6 @@
+/composer.lock
+/vendor/
+/wordpress/
+
+.idea
+**/.DS_Store
